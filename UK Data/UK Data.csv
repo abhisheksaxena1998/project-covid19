@@ -1,4 +1,4 @@
-DateRep,Day,Month,Year,Cases,Deaths,Countries and territories,GeoId, Temperature [2 m elevation corrected], Relative Humidity [2 m], Precipitation Total, Cloud Cover Total, Sunshine Duration, Shortwave Radiation, Wind Speed [10 m], Wind Direction [10 m], Wind Gust,Longitude,Latitude,Confirmed,Ccases
+DateRep,Day,Month,Year,Cases,Deaths,Countries and territories,GeoId, Temperature [2 m elevation corrected], RH, Precipitation Total, CC, Sunshine Duration, Shortwave Radiation, Wind Speed [10 m], Wind Direction [10 m], Wind Gust,Longitude,Latitude,Confirmed,Ccases
 3/1/2020,1,3,2020,5,0,United_Kingdom,UK,0.75641,92,0,0.6,30.57028,8.9,7.05331,259.11447,21.6,51.5074 N,0.1278 W,36,36
 3/2/2020,2,3,2020,13,0,United_Kingdom,UK,2.26641,86,0,5.4,56.55319,133.5,6.57959,248.62938,20.16,51.5074 N,0.1278 W,40,4
 3/3/2020,3,3,2020,4,0,United_Kingdom,UK,4.29641,81,0,9,54.25532,277.68,6.59575,223.36343,21.24,51.5074 N,0.1278 W,51,11
